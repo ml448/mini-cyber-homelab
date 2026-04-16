@@ -19,7 +19,7 @@ This lab is designed on a **student budget**, focusing on learning the full atta
 
 | Machine | Role |
 |---|---|
-| MacBook (VMware Fusion Pro) | pfSense, Kali Linux, Metasploitable, Monitoring (Ubuntu) |
+| MacBook (VMware Fusion Pro) | pfSense, Kali Linux, Metasploitable, Monitoring Stack (Ubuntu) |
 | Windows Laptop (VMware Workstation Pro) | Windows Server 2019 (Domain Controller), Windows 10 client |
 
 > The two machines are connected via Tailscale, enabling cross-host communication without modifying local network infrastructure.
