@@ -43,7 +43,7 @@ The detection layer runs [Network Monitoring System](https://github.com/ml448/ne
 | pfSense | 1GB | NAT, vmnet2, vmnet3 | Firewall, NAT, DHCP, Suricata IDS |
 | Kali | 3.5GB | vmnet2 | Attacker |
 | Ubuntu Server | 2GB | vmnet2, bridged | Monitoring stack |
-| Metasploitable | 512MB | vmnet3 | Vulnerable target |
+| Metasploitable | 512MB | vmnet4 | Vulnerable target |
 
 ---
 
