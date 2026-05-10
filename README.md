@@ -1,6 +1,6 @@
 # Virtual Cybersecurity Homelab
 
-A security monitoring lab built across two machines — a MacBook running VMware Fusion Pro and a Windows laptop running VMware Workstation Pro, connected via Tailscale. The environment segments attacker, target, and monitoring infrastructure across isolated virtual networks behind pfSense with Suricata IDS, replicating network segmentation on a student budget.
+A security monitoring lab built across two machines: a MacBook running VMware Fusion Pro and a Windows laptop running VMware Workstation Pro, connected via Tailscale. The environment segments attacker, target, and monitoring infrastructure across isolated virtual networks behind pfSense with Suricata IDS, replicating network segmentation on a student budget.
 
 Six attack scenarios have been executed end-to-end, with every offensive action detected, logged, and visualized through a custom monitoring pipeline.
 
